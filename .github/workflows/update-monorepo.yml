@@ -1,0 +1,19 @@
+name: Update Monorepo Submodule
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger monorepo update
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.MONOREPO_PAT }}
+          repository: jmcdutra/ceboelha
+          event-type: submodule-update
+          client-payload: '{"submodule": "ceboelha-data", "ref": "${{ github.sha }}"}'
