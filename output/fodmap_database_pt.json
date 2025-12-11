@@ -1,0 +1,3313 @@
+{
+  "metadata": {
+    "language": "pt-PT",
+    "total_foods": 136,
+    "high_fodmap_count": 45,
+    "low_fodmap_count": 91,
+    "free_fodmap_count": 0,
+    "categories": [
+      "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "Alimentos Prebióticos",
+      "Bebidas e Proteínas em Pó",
+      "Laticínios",
+      "Vegetais e Leguminosas",
+      "Peixe e Marisco",
+      "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "Laticínios e Ovos"
+    ]
+  },
+  "foods": [
+    {
+      "name": "Bolachas / biscoitos, incluindo bolachas com pepitas de chocolate",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "bolachas biscoitos incluindo bolachas com pepitas de chocolate"
+    },
+    {
+      "name": "Pão de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": "mais de 1 fatia",
+      "additional_notes": "mais de 1 fatia",
+      "normalized_name": "pao de trigo"
+    },
+    {
+      "name": "Pão ralado",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao ralado"
+    },
+    {
+      "name": "Bolos",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "bolos"
+    },
+    {
+      "name": "Barras de cereais, à base de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "barras de cereais a base de trigo"
+    },
+    {
+      "name": "Croissants",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "croissants"
+    },
+    {
+      "name": "Crumpets (tipo de pão esponjoso)",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "crumpets"
+    },
+    {
+      "name": "Massa de ovo (Egg noodles)",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "massa de ovo"
+    },
+    {
+      "name": "Muffins",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "muffins"
+    },
+    {
+      "name": "Massa (tipo esparguete/macarrão) de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": "mais de 1/2 chávena cozida",
+      "additional_notes": "mais de 1/2 chávena cozida",
+      "normalized_name": "massa de trigo"
+    },
+    {
+      "name": "Noodles Udon",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "noodles udon"
+    },
+    {
+      "name": "Farelo de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "farelo de trigo"
+    },
+    {
+      "name": "Cereais de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cereais de trigo"
+    },
+    {
+      "name": "Farinha de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "farinha de trigo"
+    },
+    {
+      "name": "Gérmen de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "germen de trigo"
+    },
+    {
+      "name": "Noodles de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "noodles de trigo"
+    },
+    {
+      "name": "Pãezinhos de trigo",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "paezinhos de trigo"
+    },
+    {
+      "name": "Pão de cereais (Granary)",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de cereais"
+    },
+    {
+      "name": "Pão multicereais",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao multicereais"
+    },
+    {
+      "name": "Naan",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "naan"
+    },
+    {
+      "name": "Pão de aveia",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de aveia"
+    },
+    {
+      "name": "Pão Pumpernickel",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao pumpernickel"
+    },
+    {
+      "name": "Roti",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "roti"
+    },
+    {
+      "name": "Pão de massa mãe (Sourdough) com kamut",
+      "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de massa mae com kamut"
+    },
+    {
+      "name": "Inulina",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "inulina"
+    },
+    {
+      "name": "Isomalte (E953 / 953)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "isomalte"
+    },
+    {
+      "name": "Lactitol (E966 / 966)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "lactitol"
+    },
+    {
+      "name": "Maltitol (E965 / 965)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "maltitol"
+    },
+    {
+      "name": "Manitol (E241 / 421)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "manitol"
+    },
+    {
+      "name": "Sorbitol (E420 / 420)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sorbitol"
+    },
+    {
+      "name": "Xilitol (E967 / 967)",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "xilitol"
+    },
+    {
+      "name": "FOS",
+      "category": "Alimentos Prebióticos",
+      "fodmap_level": "high",
+      "portion_note": "frutooligossacarídeos",
+      "additional_notes": "frutooligossacarídeos",
+      "normalized_name": "fos"
+    },
+    {
+      "name": "Inulina",
+      "category": "Alimentos Prebióticos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "inulina"
+    },
+    {
+      "name": "Oligofrutose",
+      "category": "Alimentos Prebióticos",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "oligofrutose"
+    },
+    {
+      "name": "Chá preto com adição de leite de soja",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha preto com adicao de leite de soja"
+    },
+    {
+      "name": "Chá Chai, forte",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha chai forte"
+    },
+    {
+      "name": "Chá de dente-de-leão, forte",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha de dente de leao forte"
+    },
+    {
+      "name": "Chá de funcho",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha de funcho"
+    },
+    {
+      "name": "Chá de camomila",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha de camomila"
+    },
+    {
+      "name": "Chá de ervas, forte",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha de ervas forte"
+    },
+    {
+      "name": "Chá Oolong",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha oolong"
+    },
+    {
+      "name": "Leite de vaca",
+      "category": "Laticínios",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite de vaca"
+    },
+    {
+      "name": "Leite de cabra",
+      "category": "Laticínios",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite de cabra"
+    },
+    {
+      "name": "Leite evaporado",
+      "category": "Laticínios",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite evaporado"
+    },
+    {
+      "name": "Leite de ovelha",
+      "category": "Laticínios",
+      "fodmap_level": "high",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite de ovelha"
+    },
+    {
+      "name": "Alface manteiga",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "alface manteiga"
+    },
+    {
+      "name": "Alface iceberg",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "alface iceberg"
+    },
+    {
+      "name": "Alface radicchio",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "alface radicchio"
+    },
+    {
+      "name": "Alface roxa",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "alface roxa"
+    },
+    {
+      "name": "Rúcula",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "rucula"
+    },
+    {
+      "name": "Alface Romana/Cos",
+      "category": "Vegetais e Leguminosas",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "alface romana cos"
+    },
+    {
+      "name": "Bacalhau",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "bacalhau"
+    },
+    {
+      "name": "Arinca",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "arinca"
+    },
+    {
+      "name": "Solha",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "solha"
+    },
+    {
+      "name": "Salmão",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "salmao"
+    },
+    {
+      "name": "Truta",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "truta"
+    },
+    {
+      "name": "Atum",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "atum"
+    },
+    {
+      "name": "Caranguejo",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "caranguejo"
+    },
+    {
+      "name": "Lagosta",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "lagosta"
+    },
+    {
+      "name": "Mexilhões",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "mexilhoes"
+    },
+    {
+      "name": "Ostras",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "ostras"
+    },
+    {
+      "name": "Gambas",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "gambas"
+    },
+    {
+      "name": "Camarão",
+      "category": "Peixe e Marisco",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "camarao"
+    },
+    {
+      "name": "Broa de milho / Pão de milho",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "broa de milho pao de milho"
+    },
+    {
+      "name": "Pão de arroz",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de arroz"
+    },
+    {
+      "name": "Pão de espelta de massa mãe (sourdough)",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de espelta de massa mae"
+    },
+    {
+      "name": "Pão de farinha de batata",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "pao de farinha de batata"
+    },
+    {
+      "name": "Corn Flakes",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "corn flakes"
+    },
+    {
+      "name": "Crispix",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "crispix"
+    },
+    {
+      "name": "Frosted Flakes",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "frosted flakes"
+    },
+    {
+      "name": "Frosted Krispies",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "frosted krispies"
+    },
+    {
+      "name": "Rice Krispies",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "rice krispies"
+    },
+    {
+      "name": "Arroz Basmati",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "arroz basmati"
+    },
+    {
+      "name": "Arroz Bomba",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "arroz bomba"
+    },
+    {
+      "name": "Arroz Integral",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "arroz integral"
+    },
+    {
+      "name": "Noodles de arroz",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "noodles de arroz"
+    },
+    {
+      "name": "Arroz branco",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "arroz branco"
+    },
+    {
+      "name": "Arroz selvagem",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": "até 1 chávena",
+      "additional_notes": "até 1 chávena",
+      "normalized_name": "arroz selvagem"
+    },
+    {
+      "name": "Sementes de chia",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de chia"
+    },
+    {
+      "name": "Sementes de endro",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de endro"
+    },
+    {
+      "name": "Sementes de Egusi",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de egusi"
+    },
+    {
+      "name": "Sementes de cânhamo",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de canhamo"
+    },
+    {
+      "name": "Sementes de papoila",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de papoila"
+    },
+    {
+      "name": "Sementes de abóbora",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de abobora"
+    },
+    {
+      "name": "Sementes de sésamo",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de sesamo"
+    },
+    {
+      "name": "Sementes de girassol",
+      "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "sementes de girassol"
+    },
+    {
+      "name": "Chocolate preto",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": "5 quadrados",
+      "additional_notes": "5 quadrados",
+      "normalized_name": "chocolate preto"
+    },
+    {
+      "name": "Chocolate de leite",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": "4 quadrados",
+      "additional_notes": "4 quadrados",
+      "normalized_name": "chocolate de leite"
+    },
+    {
+      "name": "Chocolate branco",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": "3 quadrados",
+      "additional_notes": "3 quadrados",
+      "normalized_name": "chocolate branco"
+    },
+    {
+      "name": "Vinagre de sidra",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "vinagre de sidra"
+    },
+    {
+      "name": "Vinagre balsâmico",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "vinagre balsamico"
+    },
+    {
+      "name": "Vinagre de vinho de arroz",
+      "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "vinagre de vinho de arroz"
+    },
+    {
+      "name": "Cerveja",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": "limitada a uma bebida",
+      "additional_notes": "limitada a uma bebida",
+      "normalized_name": "cerveja"
+    },
+    {
+      "name": "Bebidas espirituosas claras, como Vodka",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "bebidas espirituosas claras como vodka"
+    },
+    {
+      "name": "Gin",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "gin"
+    },
+    {
+      "name": "Whiskey",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "whiskey"
+    },
+    {
+      "name": "Vinho",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": "limitado a uma bebida",
+      "additional_notes": "limitado a uma bebida",
+      "normalized_name": "vinho"
+    },
+    {
+      "name": "Café expresso, normal ou descafeinado, preto",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cafe expresso normal ou descafeinado preto"
+    },
+    {
+      "name": "Café expresso",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+      "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+      "normalized_name": "cafe expresso"
+    },
+    {
+      "name": "Café solúvel, normal ou descafeinado, preto",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cafe soluvel normal ou descafeinado preto"
+    },
+    {
+      "name": "Café solúvel",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+      "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+      "normalized_name": "cafe soluvel"
+    },
+    {
+      "name": "Proteína de ovo",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "proteina de ovo"
+    },
+    {
+      "name": "Proteína de arroz",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "proteina de arroz"
+    },
+    {
+      "name": "Proteína Sacha Inchi",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "proteina sacha inchi"
+    },
+    {
+      "name": "Isolado de proteína Whey",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "isolado de proteina whey"
+    },
+    {
+      "name": "Chá Chai, fraco",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha chai fraco"
+    },
+    {
+      "name": "Chá de frutas e ervas, fraco",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": "certifique-se de que não tem adição de maçã",
+      "additional_notes": "certifique-se de que não tem adição de maçã",
+      "normalized_name": "cha de frutas e ervas fraco"
+    },
+    {
+      "name": "Chá verde",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha verde"
+    },
+    {
+      "name": "Chá de hortelã-pimenta",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha de hortela pimenta"
+    },
+    {
+      "name": "Chá branco",
+      "category": "Bebidas e Proteínas em Pó",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cha branco"
+    },
+    {
+      "name": "Queijo Americano",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "16g",
+      "additional_notes": "16g",
+      "normalized_name": "queijo americano"
+    },
+    {
+      "name": "Brie",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "brie"
+    },
+    {
+      "name": "Camembert",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "camembert"
+    },
+    {
+      "name": "Cheddar",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cheddar"
+    },
+    {
+      "name": "Cottage / Fresco granulado",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "cottage fresco granulado"
+    },
+    {
+      "name": "Queijo Creme",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "queijo creme"
+    },
+    {
+      "name": "Feta",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "feta"
+    },
+    {
+      "name": "Cabra / chèvre",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "cabra chevre"
+    },
+    {
+      "name": "Halloumi",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "40g",
+      "additional_notes": "40g",
+      "normalized_name": "halloumi"
+    },
+    {
+      "name": "Monterey Jack",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "monterey jack"
+    },
+    {
+      "name": "Mozzarella",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "mozzarella"
+    },
+    {
+      "name": "Paneer",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "paneer"
+    },
+    {
+      "name": "Parmesão",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "parmesao"
+    },
+    {
+      "name": "Ricota",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "2 colheres de sopa",
+      "additional_notes": "2 colheres de sopa",
+      "normalized_name": "ricota"
+    },
+    {
+      "name": "Suíço",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "suico"
+    },
+    {
+      "name": "Leite de amêndoa",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite de amendoa"
+    },
+    {
+      "name": "Leite de cânhamo",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "125ml",
+      "additional_notes": "125ml",
+      "normalized_name": "leite de canhamo"
+    },
+    {
+      "name": "Leite sem lactose",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite sem lactose"
+    },
+    {
+      "name": "Leite de macadâmia",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "leite de macadamia"
+    },
+    {
+      "name": "Leite de aveia",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "30 ml, suficiente para cereais",
+      "additional_notes": "30 ml, suficiente para cereais",
+      "normalized_name": "leite de aveia"
+    },
+    {
+      "name": "Leite de arroz",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "até 200ml por refeição",
+      "additional_notes": "até 200ml por refeição",
+      "normalized_name": "leite de arroz"
+    },
+    {
+      "name": "Iogurte de coco",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "iogurte de coco"
+    },
+    {
+      "name": "Iogurte grego",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "23g",
+      "additional_notes": "23g",
+      "normalized_name": "iogurte grego"
+    },
+    {
+      "name": "Iogurte sem lactose",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "iogurte sem lactose"
+    },
+    {
+      "name": "Iogurte de cabra",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": null,
+      "additional_notes": null,
+      "normalized_name": "iogurte de cabra"
+    },
+    {
+      "name": "Iogurte de soja",
+      "category": "Laticínios e Ovos",
+      "fodmap_level": "low",
+      "portion_note": "38g",
+      "additional_notes": "38g",
+      "normalized_name": "iogurte de soja"
+    }
+  ],
+  "by_category": {
+    "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos": [
+      {
+        "name": "Bolachas / biscoitos, incluindo bolachas com pepitas de chocolate",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bolachas biscoitos incluindo bolachas com pepitas de chocolate"
+      },
+      {
+        "name": "Pão de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": "mais de 1 fatia",
+        "additional_notes": "mais de 1 fatia",
+        "normalized_name": "pao de trigo"
+      },
+      {
+        "name": "Pão ralado",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao ralado"
+      },
+      {
+        "name": "Bolos",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bolos"
+      },
+      {
+        "name": "Barras de cereais, à base de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "barras de cereais a base de trigo"
+      },
+      {
+        "name": "Croissants",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "croissants"
+      },
+      {
+        "name": "Crumpets (tipo de pão esponjoso)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "crumpets"
+      },
+      {
+        "name": "Massa de ovo (Egg noodles)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "massa de ovo"
+      },
+      {
+        "name": "Muffins",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "muffins"
+      },
+      {
+        "name": "Massa (tipo esparguete/macarrão) de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": "mais de 1/2 chávena cozida",
+        "additional_notes": "mais de 1/2 chávena cozida",
+        "normalized_name": "massa de trigo"
+      },
+      {
+        "name": "Noodles Udon",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles udon"
+      },
+      {
+        "name": "Farelo de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "farelo de trigo"
+      },
+      {
+        "name": "Cereais de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cereais de trigo"
+      },
+      {
+        "name": "Farinha de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "farinha de trigo"
+      },
+      {
+        "name": "Gérmen de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "germen de trigo"
+      },
+      {
+        "name": "Noodles de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles de trigo"
+      },
+      {
+        "name": "Pãezinhos de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "paezinhos de trigo"
+      },
+      {
+        "name": "Pão de cereais (Granary)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de cereais"
+      },
+      {
+        "name": "Pão multicereais",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao multicereais"
+      },
+      {
+        "name": "Naan",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "naan"
+      },
+      {
+        "name": "Pão de aveia",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de aveia"
+      },
+      {
+        "name": "Pão Pumpernickel",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao pumpernickel"
+      },
+      {
+        "name": "Roti",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "roti"
+      },
+      {
+        "name": "Pão de massa mãe (Sourdough) com kamut",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de massa mae com kamut"
+      }
+    ],
+    "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar": [
+      {
+        "name": "Inulina",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "inulina"
+      },
+      {
+        "name": "Isomalte (E953 / 953)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "isomalte"
+      },
+      {
+        "name": "Lactitol (E966 / 966)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "lactitol"
+      },
+      {
+        "name": "Maltitol (E965 / 965)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "maltitol"
+      },
+      {
+        "name": "Manitol (E241 / 421)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "manitol"
+      },
+      {
+        "name": "Sorbitol (E420 / 420)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sorbitol"
+      },
+      {
+        "name": "Xilitol (E967 / 967)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "xilitol"
+      },
+      {
+        "name": "Chocolate preto",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "5 quadrados",
+        "additional_notes": "5 quadrados",
+        "normalized_name": "chocolate preto"
+      },
+      {
+        "name": "Chocolate de leite",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "4 quadrados",
+        "additional_notes": "4 quadrados",
+        "normalized_name": "chocolate de leite"
+      },
+      {
+        "name": "Chocolate branco",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "3 quadrados",
+        "additional_notes": "3 quadrados",
+        "normalized_name": "chocolate branco"
+      },
+      {
+        "name": "Vinagre de sidra",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "vinagre de sidra"
+      },
+      {
+        "name": "Vinagre balsâmico",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "vinagre balsamico"
+      },
+      {
+        "name": "Vinagre de vinho de arroz",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "vinagre de vinho de arroz"
+      }
+    ],
+    "Alimentos Prebióticos": [
+      {
+        "name": "FOS",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": "frutooligossacarídeos",
+        "additional_notes": "frutooligossacarídeos",
+        "normalized_name": "fos"
+      },
+      {
+        "name": "Inulina",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "inulina"
+      },
+      {
+        "name": "Oligofrutose",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "oligofrutose"
+      }
+    ],
+    "Bebidas e Proteínas em Pó": [
+      {
+        "name": "Chá preto com adição de leite de soja",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha preto com adicao de leite de soja"
+      },
+      {
+        "name": "Chá Chai, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha chai forte"
+      },
+      {
+        "name": "Chá de dente-de-leão, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de dente de leao forte"
+      },
+      {
+        "name": "Chá de funcho",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de funcho"
+      },
+      {
+        "name": "Chá de camomila",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de camomila"
+      },
+      {
+        "name": "Chá de ervas, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de ervas forte"
+      },
+      {
+        "name": "Chá Oolong",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha oolong"
+      },
+      {
+        "name": "Cerveja",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "limitada a uma bebida",
+        "additional_notes": "limitada a uma bebida",
+        "normalized_name": "cerveja"
+      },
+      {
+        "name": "Bebidas espirituosas claras, como Vodka",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bebidas espirituosas claras como vodka"
+      },
+      {
+        "name": "Gin",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "gin"
+      },
+      {
+        "name": "Whiskey",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "whiskey"
+      },
+      {
+        "name": "Vinho",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "limitado a uma bebida",
+        "additional_notes": "limitado a uma bebida",
+        "normalized_name": "vinho"
+      },
+      {
+        "name": "Café expresso, normal ou descafeinado, preto",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cafe expresso normal ou descafeinado preto"
+      },
+      {
+        "name": "Café expresso",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "normalized_name": "cafe expresso"
+      },
+      {
+        "name": "Café solúvel, normal ou descafeinado, preto",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cafe soluvel normal ou descafeinado preto"
+      },
+      {
+        "name": "Café solúvel",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "normalized_name": "cafe soluvel"
+      },
+      {
+        "name": "Proteína de ovo",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina de ovo"
+      },
+      {
+        "name": "Proteína de arroz",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina de arroz"
+      },
+      {
+        "name": "Proteína Sacha Inchi",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina sacha inchi"
+      },
+      {
+        "name": "Isolado de proteína Whey",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "isolado de proteina whey"
+      },
+      {
+        "name": "Chá Chai, fraco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha chai fraco"
+      },
+      {
+        "name": "Chá de frutas e ervas, fraco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "certifique-se de que não tem adição de maçã",
+        "additional_notes": "certifique-se de que não tem adição de maçã",
+        "normalized_name": "cha de frutas e ervas fraco"
+      },
+      {
+        "name": "Chá verde",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha verde"
+      },
+      {
+        "name": "Chá de hortelã-pimenta",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de hortela pimenta"
+      },
+      {
+        "name": "Chá branco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha branco"
+      }
+    ],
+    "Laticínios": [
+      {
+        "name": "Leite de vaca",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de vaca"
+      },
+      {
+        "name": "Leite de cabra",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de cabra"
+      },
+      {
+        "name": "Leite evaporado",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite evaporado"
+      },
+      {
+        "name": "Leite de ovelha",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de ovelha"
+      }
+    ],
+    "Vegetais e Leguminosas": [
+      {
+        "name": "Alface manteiga",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface manteiga"
+      },
+      {
+        "name": "Alface iceberg",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface iceberg"
+      },
+      {
+        "name": "Alface radicchio",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface radicchio"
+      },
+      {
+        "name": "Alface roxa",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface roxa"
+      },
+      {
+        "name": "Rúcula",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "rucula"
+      },
+      {
+        "name": "Alface Romana/Cos",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface romana cos"
+      }
+    ],
+    "Peixe e Marisco": [
+      {
+        "name": "Bacalhau",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bacalhau"
+      },
+      {
+        "name": "Arinca",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arinca"
+      },
+      {
+        "name": "Solha",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "solha"
+      },
+      {
+        "name": "Salmão",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "salmao"
+      },
+      {
+        "name": "Truta",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "truta"
+      },
+      {
+        "name": "Atum",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "atum"
+      },
+      {
+        "name": "Caranguejo",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "caranguejo"
+      },
+      {
+        "name": "Lagosta",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "lagosta"
+      },
+      {
+        "name": "Mexilhões",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "mexilhoes"
+      },
+      {
+        "name": "Ostras",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "ostras"
+      },
+      {
+        "name": "Gambas",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "gambas"
+      },
+      {
+        "name": "Camarão",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "camarao"
+      }
+    ],
+    "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos": [
+      {
+        "name": "Broa de milho / Pão de milho",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "broa de milho pao de milho"
+      },
+      {
+        "name": "Pão de arroz",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de arroz"
+      },
+      {
+        "name": "Pão de espelta de massa mãe (sourdough)",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de espelta de massa mae"
+      },
+      {
+        "name": "Pão de farinha de batata",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de farinha de batata"
+      },
+      {
+        "name": "Corn Flakes",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "corn flakes"
+      },
+      {
+        "name": "Crispix",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "crispix"
+      },
+      {
+        "name": "Frosted Flakes",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "frosted flakes"
+      },
+      {
+        "name": "Frosted Krispies",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "frosted krispies"
+      },
+      {
+        "name": "Rice Krispies",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "rice krispies"
+      },
+      {
+        "name": "Arroz Basmati",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz basmati"
+      },
+      {
+        "name": "Arroz Bomba",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz bomba"
+      },
+      {
+        "name": "Arroz Integral",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz integral"
+      },
+      {
+        "name": "Noodles de arroz",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles de arroz"
+      },
+      {
+        "name": "Arroz branco",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz branco"
+      },
+      {
+        "name": "Arroz selvagem",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": "até 1 chávena",
+        "additional_notes": "até 1 chávena",
+        "normalized_name": "arroz selvagem"
+      },
+      {
+        "name": "Sementes de chia",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de chia"
+      },
+      {
+        "name": "Sementes de endro",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de endro"
+      },
+      {
+        "name": "Sementes de Egusi",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de egusi"
+      },
+      {
+        "name": "Sementes de cânhamo",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de canhamo"
+      },
+      {
+        "name": "Sementes de papoila",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de papoila"
+      },
+      {
+        "name": "Sementes de abóbora",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de abobora"
+      },
+      {
+        "name": "Sementes de sésamo",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de sesamo"
+      },
+      {
+        "name": "Sementes de girassol",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de girassol"
+      }
+    ],
+    "Laticínios e Ovos": [
+      {
+        "name": "Queijo Americano",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "16g",
+        "additional_notes": "16g",
+        "normalized_name": "queijo americano"
+      },
+      {
+        "name": "Brie",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "brie"
+      },
+      {
+        "name": "Camembert",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "camembert"
+      },
+      {
+        "name": "Cheddar",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cheddar"
+      },
+      {
+        "name": "Cottage / Fresco granulado",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "cottage fresco granulado"
+      },
+      {
+        "name": "Queijo Creme",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "queijo creme"
+      },
+      {
+        "name": "Feta",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "feta"
+      },
+      {
+        "name": "Cabra / chèvre",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cabra chevre"
+      },
+      {
+        "name": "Halloumi",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "40g",
+        "additional_notes": "40g",
+        "normalized_name": "halloumi"
+      },
+      {
+        "name": "Monterey Jack",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "monterey jack"
+      },
+      {
+        "name": "Mozzarella",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "mozzarella"
+      },
+      {
+        "name": "Paneer",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "paneer"
+      },
+      {
+        "name": "Parmesão",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "parmesao"
+      },
+      {
+        "name": "Ricota",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "ricota"
+      },
+      {
+        "name": "Suíço",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "suico"
+      },
+      {
+        "name": "Leite de amêndoa",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de amendoa"
+      },
+      {
+        "name": "Leite de cânhamo",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "125ml",
+        "additional_notes": "125ml",
+        "normalized_name": "leite de canhamo"
+      },
+      {
+        "name": "Leite sem lactose",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite sem lactose"
+      },
+      {
+        "name": "Leite de macadâmia",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de macadamia"
+      },
+      {
+        "name": "Leite de aveia",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "30 ml, suficiente para cereais",
+        "additional_notes": "30 ml, suficiente para cereais",
+        "normalized_name": "leite de aveia"
+      },
+      {
+        "name": "Leite de arroz",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "até 200ml por refeição",
+        "additional_notes": "até 200ml por refeição",
+        "normalized_name": "leite de arroz"
+      },
+      {
+        "name": "Iogurte de coco",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte de coco"
+      },
+      {
+        "name": "Iogurte grego",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "23g",
+        "additional_notes": "23g",
+        "normalized_name": "iogurte grego"
+      },
+      {
+        "name": "Iogurte sem lactose",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte sem lactose"
+      },
+      {
+        "name": "Iogurte de cabra",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte de cabra"
+      },
+      {
+        "name": "Iogurte de soja",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "38g",
+        "additional_notes": "38g",
+        "normalized_name": "iogurte de soja"
+      }
+    ]
+  },
+  "by_level": {
+    "high": [
+      {
+        "name": "Bolachas / biscoitos, incluindo bolachas com pepitas de chocolate",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bolachas biscoitos incluindo bolachas com pepitas de chocolate"
+      },
+      {
+        "name": "Pão de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": "mais de 1 fatia",
+        "additional_notes": "mais de 1 fatia",
+        "normalized_name": "pao de trigo"
+      },
+      {
+        "name": "Pão ralado",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao ralado"
+      },
+      {
+        "name": "Bolos",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bolos"
+      },
+      {
+        "name": "Barras de cereais, à base de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "barras de cereais a base de trigo"
+      },
+      {
+        "name": "Croissants",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "croissants"
+      },
+      {
+        "name": "Crumpets (tipo de pão esponjoso)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "crumpets"
+      },
+      {
+        "name": "Massa de ovo (Egg noodles)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "massa de ovo"
+      },
+      {
+        "name": "Muffins",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "muffins"
+      },
+      {
+        "name": "Massa (tipo esparguete/macarrão) de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": "mais de 1/2 chávena cozida",
+        "additional_notes": "mais de 1/2 chávena cozida",
+        "normalized_name": "massa de trigo"
+      },
+      {
+        "name": "Noodles Udon",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles udon"
+      },
+      {
+        "name": "Farelo de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "farelo de trigo"
+      },
+      {
+        "name": "Cereais de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cereais de trigo"
+      },
+      {
+        "name": "Farinha de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "farinha de trigo"
+      },
+      {
+        "name": "Gérmen de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "germen de trigo"
+      },
+      {
+        "name": "Noodles de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles de trigo"
+      },
+      {
+        "name": "Pãezinhos de trigo",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "paezinhos de trigo"
+      },
+      {
+        "name": "Pão de cereais (Granary)",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de cereais"
+      },
+      {
+        "name": "Pão multicereais",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao multicereais"
+      },
+      {
+        "name": "Naan",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "naan"
+      },
+      {
+        "name": "Pão de aveia",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de aveia"
+      },
+      {
+        "name": "Pão Pumpernickel",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao pumpernickel"
+      },
+      {
+        "name": "Roti",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "roti"
+      },
+      {
+        "name": "Pão de massa mãe (Sourdough) com kamut",
+        "category": "Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de massa mae com kamut"
+      },
+      {
+        "name": "Inulina",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "inulina"
+      },
+      {
+        "name": "Isomalte (E953 / 953)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "isomalte"
+      },
+      {
+        "name": "Lactitol (E966 / 966)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "lactitol"
+      },
+      {
+        "name": "Maltitol (E965 / 965)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "maltitol"
+      },
+      {
+        "name": "Manitol (E241 / 421)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "manitol"
+      },
+      {
+        "name": "Sorbitol (E420 / 420)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sorbitol"
+      },
+      {
+        "name": "Xilitol (E967 / 967)",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "xilitol"
+      },
+      {
+        "name": "FOS",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": "frutooligossacarídeos",
+        "additional_notes": "frutooligossacarídeos",
+        "normalized_name": "fos"
+      },
+      {
+        "name": "Inulina",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "inulina"
+      },
+      {
+        "name": "Oligofrutose",
+        "category": "Alimentos Prebióticos",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "oligofrutose"
+      },
+      {
+        "name": "Chá preto com adição de leite de soja",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha preto com adicao de leite de soja"
+      },
+      {
+        "name": "Chá Chai, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha chai forte"
+      },
+      {
+        "name": "Chá de dente-de-leão, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de dente de leao forte"
+      },
+      {
+        "name": "Chá de funcho",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de funcho"
+      },
+      {
+        "name": "Chá de camomila",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de camomila"
+      },
+      {
+        "name": "Chá de ervas, forte",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de ervas forte"
+      },
+      {
+        "name": "Chá Oolong",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha oolong"
+      },
+      {
+        "name": "Leite de vaca",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de vaca"
+      },
+      {
+        "name": "Leite de cabra",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de cabra"
+      },
+      {
+        "name": "Leite evaporado",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite evaporado"
+      },
+      {
+        "name": "Leite de ovelha",
+        "category": "Laticínios",
+        "fodmap_level": "high",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de ovelha"
+      }
+    ],
+    "low": [
+      {
+        "name": "Alface manteiga",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface manteiga"
+      },
+      {
+        "name": "Alface iceberg",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface iceberg"
+      },
+      {
+        "name": "Alface radicchio",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface radicchio"
+      },
+      {
+        "name": "Alface roxa",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface roxa"
+      },
+      {
+        "name": "Rúcula",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "rucula"
+      },
+      {
+        "name": "Alface Romana/Cos",
+        "category": "Vegetais e Leguminosas",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "alface romana cos"
+      },
+      {
+        "name": "Bacalhau",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bacalhau"
+      },
+      {
+        "name": "Arinca",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arinca"
+      },
+      {
+        "name": "Solha",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "solha"
+      },
+      {
+        "name": "Salmão",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "salmao"
+      },
+      {
+        "name": "Truta",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "truta"
+      },
+      {
+        "name": "Atum",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "atum"
+      },
+      {
+        "name": "Caranguejo",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "caranguejo"
+      },
+      {
+        "name": "Lagosta",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "lagosta"
+      },
+      {
+        "name": "Mexilhões",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "mexilhoes"
+      },
+      {
+        "name": "Ostras",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "ostras"
+      },
+      {
+        "name": "Gambas",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "gambas"
+      },
+      {
+        "name": "Camarão",
+        "category": "Peixe e Marisco",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "camarao"
+      },
+      {
+        "name": "Broa de milho / Pão de milho",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "broa de milho pao de milho"
+      },
+      {
+        "name": "Pão de arroz",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de arroz"
+      },
+      {
+        "name": "Pão de espelta de massa mãe (sourdough)",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de espelta de massa mae"
+      },
+      {
+        "name": "Pão de farinha de batata",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "pao de farinha de batata"
+      },
+      {
+        "name": "Corn Flakes",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "corn flakes"
+      },
+      {
+        "name": "Crispix",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "crispix"
+      },
+      {
+        "name": "Frosted Flakes",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "frosted flakes"
+      },
+      {
+        "name": "Frosted Krispies",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "frosted krispies"
+      },
+      {
+        "name": "Rice Krispies",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "rice krispies"
+      },
+      {
+        "name": "Arroz Basmati",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz basmati"
+      },
+      {
+        "name": "Arroz Bomba",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz bomba"
+      },
+      {
+        "name": "Arroz Integral",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz integral"
+      },
+      {
+        "name": "Noodles de arroz",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "noodles de arroz"
+      },
+      {
+        "name": "Arroz branco",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "arroz branco"
+      },
+      {
+        "name": "Arroz selvagem",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": "até 1 chávena",
+        "additional_notes": "até 1 chávena",
+        "normalized_name": "arroz selvagem"
+      },
+      {
+        "name": "Sementes de chia",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de chia"
+      },
+      {
+        "name": "Sementes de endro",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de endro"
+      },
+      {
+        "name": "Sementes de Egusi",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de egusi"
+      },
+      {
+        "name": "Sementes de cânhamo",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de canhamo"
+      },
+      {
+        "name": "Sementes de papoila",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de papoila"
+      },
+      {
+        "name": "Sementes de abóbora",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de abobora"
+      },
+      {
+        "name": "Sementes de sésamo",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de sesamo"
+      },
+      {
+        "name": "Sementes de girassol",
+        "category": "Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "sementes de girassol"
+      },
+      {
+        "name": "Chocolate preto",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "5 quadrados",
+        "additional_notes": "5 quadrados",
+        "normalized_name": "chocolate preto"
+      },
+      {
+        "name": "Chocolate de leite",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "4 quadrados",
+        "additional_notes": "4 quadrados",
+        "normalized_name": "chocolate de leite"
+      },
+      {
+        "name": "Chocolate branco",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "3 quadrados",
+        "additional_notes": "3 quadrados",
+        "normalized_name": "chocolate branco"
+      },
+      {
+        "name": "Vinagre de sidra",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "vinagre de sidra"
+      },
+      {
+        "name": "Vinagre balsâmico",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "vinagre balsamico"
+      },
+      {
+        "name": "Vinagre de vinho de arroz",
+        "category": "Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "vinagre de vinho de arroz"
+      },
+      {
+        "name": "Cerveja",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "limitada a uma bebida",
+        "additional_notes": "limitada a uma bebida",
+        "normalized_name": "cerveja"
+      },
+      {
+        "name": "Bebidas espirituosas claras, como Vodka",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "bebidas espirituosas claras como vodka"
+      },
+      {
+        "name": "Gin",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "gin"
+      },
+      {
+        "name": "Whiskey",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "whiskey"
+      },
+      {
+        "name": "Vinho",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "limitado a uma bebida",
+        "additional_notes": "limitado a uma bebida",
+        "normalized_name": "vinho"
+      },
+      {
+        "name": "Café expresso, normal ou descafeinado, preto",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cafe expresso normal ou descafeinado preto"
+      },
+      {
+        "name": "Café expresso",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "normalized_name": "cafe expresso"
+      },
+      {
+        "name": "Café solúvel, normal ou descafeinado, preto",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cafe soluvel normal ou descafeinado preto"
+      },
+      {
+        "name": "Café solúvel",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "additional_notes": "normal ou descafeinado, com até 250ml de leite sem lactose",
+        "normalized_name": "cafe soluvel"
+      },
+      {
+        "name": "Proteína de ovo",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina de ovo"
+      },
+      {
+        "name": "Proteína de arroz",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina de arroz"
+      },
+      {
+        "name": "Proteína Sacha Inchi",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "proteina sacha inchi"
+      },
+      {
+        "name": "Isolado de proteína Whey",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "isolado de proteina whey"
+      },
+      {
+        "name": "Chá Chai, fraco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha chai fraco"
+      },
+      {
+        "name": "Chá de frutas e ervas, fraco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": "certifique-se de que não tem adição de maçã",
+        "additional_notes": "certifique-se de que não tem adição de maçã",
+        "normalized_name": "cha de frutas e ervas fraco"
+      },
+      {
+        "name": "Chá verde",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha verde"
+      },
+      {
+        "name": "Chá de hortelã-pimenta",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha de hortela pimenta"
+      },
+      {
+        "name": "Chá branco",
+        "category": "Bebidas e Proteínas em Pó",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cha branco"
+      },
+      {
+        "name": "Queijo Americano",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "16g",
+        "additional_notes": "16g",
+        "normalized_name": "queijo americano"
+      },
+      {
+        "name": "Brie",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "brie"
+      },
+      {
+        "name": "Camembert",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "camembert"
+      },
+      {
+        "name": "Cheddar",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cheddar"
+      },
+      {
+        "name": "Cottage / Fresco granulado",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "cottage fresco granulado"
+      },
+      {
+        "name": "Queijo Creme",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "queijo creme"
+      },
+      {
+        "name": "Feta",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "feta"
+      },
+      {
+        "name": "Cabra / chèvre",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "cabra chevre"
+      },
+      {
+        "name": "Halloumi",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "40g",
+        "additional_notes": "40g",
+        "normalized_name": "halloumi"
+      },
+      {
+        "name": "Monterey Jack",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "monterey jack"
+      },
+      {
+        "name": "Mozzarella",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "mozzarella"
+      },
+      {
+        "name": "Paneer",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "paneer"
+      },
+      {
+        "name": "Parmesão",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "parmesao"
+      },
+      {
+        "name": "Ricota",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "2 colheres de sopa",
+        "additional_notes": "2 colheres de sopa",
+        "normalized_name": "ricota"
+      },
+      {
+        "name": "Suíço",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "suico"
+      },
+      {
+        "name": "Leite de amêndoa",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de amendoa"
+      },
+      {
+        "name": "Leite de cânhamo",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "125ml",
+        "additional_notes": "125ml",
+        "normalized_name": "leite de canhamo"
+      },
+      {
+        "name": "Leite sem lactose",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite sem lactose"
+      },
+      {
+        "name": "Leite de macadâmia",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "leite de macadamia"
+      },
+      {
+        "name": "Leite de aveia",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "30 ml, suficiente para cereais",
+        "additional_notes": "30 ml, suficiente para cereais",
+        "normalized_name": "leite de aveia"
+      },
+      {
+        "name": "Leite de arroz",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "até 200ml por refeição",
+        "additional_notes": "até 200ml por refeição",
+        "normalized_name": "leite de arroz"
+      },
+      {
+        "name": "Iogurte de coco",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte de coco"
+      },
+      {
+        "name": "Iogurte grego",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "23g",
+        "additional_notes": "23g",
+        "normalized_name": "iogurte grego"
+      },
+      {
+        "name": "Iogurte sem lactose",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte sem lactose"
+      },
+      {
+        "name": "Iogurte de cabra",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": null,
+        "additional_notes": null,
+        "normalized_name": "iogurte de cabra"
+      },
+      {
+        "name": "Iogurte de soja",
+        "category": "Laticínios e Ovos",
+        "fodmap_level": "low",
+        "portion_note": "38g",
+        "additional_notes": "38g",
+        "normalized_name": "iogurte de soja"
+      }
+    ],
+    "free": []
+  }
+}

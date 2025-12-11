@@ -1,0 +1,780 @@
+Aqui está a tradução dos três ficheiros para Português de Portugal.
+
+--- INÍCIO DO FICHEIRO high_fodmap.txt ---
+
+Alimentos com alto teor de FODMAPs (coisas a evitar / reduzir)
+
+Vegetais e Leguminosas
+
+code
+Code
+download
+content_copy
+expand_less
+Alho - evitar totalmente se possível
+    Inclui sal de alho, alho em pó
+Cebolas - evitar totalmente se possível
+    Inclui cebola em pó, cebolinhas em conserva (pickles)
+O FODZYME ajuda a decompor os FODMAPs específicos encontrados no alho e nas cebolas.
+Alcachofra, incluindo tupinambo (alcachofra de Jerusalém)
+Espargos
+Feijão cozido em molho de tomate (Baked beans)
+Beterraba, fresca
+Feijão-frade
+Favas
+Feijão-manteiga
+Mandioca
+Couve-flor, mais de 75g
+Aipo - mais de 5cm de talo
+Chuchu
+Falafel
+Feijão-branco
+Feijão vermelho (Kidney beans)
+Kelp / Kombu (algas)
+Feijão-lima
+Bolbo de alho-francês
+Ervilhas tortas (Mange Tout)
+Legumes mistos / Jardineira
+Feijão-mungo
+Cogumelos
+Ervilhas de quebrar (Sugar snap peas)
+Vegetais em conserva (pickles)
+Feijão vermelho (Red kidney beans) - mais de 85g
+Couve lombarda - mais de 1/2 chávena
+Soja / feijão de soja
+Ervilhas secas partidas (Split peas)
+Cebolo / cebolinha (bolbo / parte branca)
+Chalotas
+Taro (Inhame-coco)
+
+Fruta - as frutas podem conter muita frutose
+
+code
+Code
+download
+content_copy
+expand_less
+Maçãs, incluindo pink lady e granny smith
+Alperces
+Abacate, mais de 1/2 chávena
+Bananas, maduras
+Amoras
+Groselhas-negras
+Boysenberry (amora-híbrida)
+Cerejas
+Groselhas
+Anona (Custard apple)
+Feijoa
+Figos
+Bagas de Goji
+Toranja - mais de 80g
+Goiaba, verde/não madura
+Bagas de zimbro, secas
+Lichia
+Manga
+Nectarinas - mais de 1/2 nectarina
+Papaia, seca
+Pêssegos
+Peras
+Dióspiro
+Ananás, seco
+Ameixas
+Romã
+Ameixas secas
+Passas - mais de 1 colher de sopa / 13g
+Espinheiro-marítimo (Sea buckthorns)
+Sultanas
+Tamarilho
+Fruta em lata em sumo de maçã / pera
+Melancia
+
+Carnes, Aves e Substitutos de Carne
+
+code
+Code
+download
+content_copy
+expand_less
+Chouriço, se tiver adição de alho
+Salsichas - verificar ingredientes
+
+Cereais, Grãos, Pães, Bolachas/Biscoitos, Massa, Frutos Secos e Bolos
+
+code
+Code
+download
+content_copy
+expand_less
+Produtos que contêm trigo, tais como (certifique-se de verificar os rótulos):
+    Bolachas / biscoitos, incluindo bolachas com pepitas de chocolate
+    Pão de trigo - mais de 1 fatia
+    Pão ralado
+    Bolos
+    Barras de cereais, à base de trigo
+    Croissants
+    Crumpets (tipo de pão esponjoso)
+    Massa de ovo (Egg noodles)
+    Muffins
+    Massa (tipo esparguete/macarrão) de trigo, mais de 1/2 chávena cozida
+    Noodles Udon
+    Farelo de trigo
+    Cereais de trigo
+    Farinha de trigo
+    Gérmen de trigo
+    Noodles de trigo
+    Pãezinhos de trigo
+
+Farinha de amêndoa
+Farinha de amaranto
+Cevada, incluindo farinha
+Cereais de farelo
+Pão:
+    Pão de cereais (Granary)
+    Pão multicereais
+    Naan
+    Pão de aveia
+    Pão Pumpernickel
+    Roti
+    Pão de massa mãe (Sourdough) com kamut
+Cajus
+Farinha de castanha
+Cuscuz
+Farinha de Einkorn
+Freekeh
+Gnocchi
+Barra de granola
+Cereais muesli
+Barra de muesli
+Pistácios
+Centeio
+Pão estaladiço de centeio (Crispbread)
+Sêmola
+Farinha de espelta
+
+Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar
+
+code
+Code
+download
+content_copy
+expand_less
+Agave
+Molho de caviar (Caviar dip)
+Frutose
+Barra de fruta
+Molho de carne (Gravy), se contiver cebola
+Xarope de milho rico em frutose (HFCS)
+Húmus
+Mel
+Doce/Compota, frutos vermelhos mistos
+Doce/Compota, morango, se contiver HFCS
+Melaço
+Molho Pesto
+Marmelada (Pasta de marmelo)
+Relish / pickles de vegetais
+Cubos de caldo (Knorr, etc.)
+Doces sem açúcar contendo polióis - geralmente terminados em -ol ou isomalte
+Adoçantes e número E correspondente:
+    Inulina
+    Isomalte (E953 / 953)
+    Lactitol (E966 / 966)
+    Maltitol (E965 / 965)
+    Manitol (E241 / 421)
+    Sorbitol (E420 / 420)
+    Xilitol (E967 / 967)
+Molho Tzatziki
+Wasabi
+
+Alimentos Prebióticos
+
+code
+Code
+download
+content_copy
+expand_less
+Os seguintes itens podem estar escondidos em iogurtes, barras de snacks, etc.:
+    FOS - frutooligossacarídeos
+    Inulina
+    Oligofrutose
+
+Bebidas e Proteínas em Pó
+
+code
+Code
+download
+content_copy
+expand_less
+Cerveja - se beber mais de uma garrafa
+Xarope de fruta (Cordial), maçã e framboesa com 50-100% de sumo real
+Xarope de fruta (Cordial), laranja com 25-50% de sumo real
+Chás de frutas e ervas com adição de maçã
+Sumos de fruta em grandes quantidades
+Sumos de fruta feitos de maçã, pera, manga
+Kombucha
+Bebida com sabor a chocolate maltado
+Bebidas de substituição de refeição contendo produtos à base de leite, ex: Ensure, Slim Fast
+Sumo de laranja em quantidades superiores a 100ml
+Leite de quinoa
+Rum
+Refrigerantes contendo Xarope de Milho Rico em Frutose (HFCS)
+Leite de soja feito com grãos de soja - comummente encontrado nos EUA
+Bebidas desportivas (isotónicas)
+Chá:
+    Chá preto com adição de leite de soja
+    Chá Chai, forte
+    Chá de dente-de-leão, forte
+    Chá de funcho
+    Chá de camomila
+    Chá de ervas, forte
+    Chá Oolong
+Vinho - se beber mais de um copo
+Proteína Whey, concentrada, a menos que seja sem lactose
+Proteína Whey, hidrolisada, a menos que seja sem lactose
+
+Laticínios
+
+code
+Code
+download
+content_copy
+expand_less
+Leitelho (Buttermilk)
+Queijo, ricota
+Natas
+Leite creme (Custard)
+Gelado (tipo italiano - Gelato)
+Gelado
+Kefir
+Leite:
+    Leite de vaca
+    Leite de cabra
+    Leite evaporado
+    Leite de ovelha
+Natas azedas (Sour cream) - mais de 2 colheres de sopa
+Iogurte
+
+Ingredientes de culinária
+
+code
+Code
+download
+content_copy
+expand_less
+Alfarroba em pó / farinha de alfarroba
+
+--- INÍCIO DO FICHEIRO free_fodmap.txt ---
+
+Vegetais
+
+code
+Code
+download
+content_copy
+expand_less
+Rebentos de bambu
+Rebentos de soja (feijão-mungo)
+Beterraba, em conserva (pickles)
+Cenouras
+Gengibre
+Alface - iceberg, roxa, cos/romana, rúcula
+Azeitonas
+Pastinaca
+Batata
+Rabanete
+Ruibarbo
+Algas, nori
+Espinafres
+
+Frutas
+
+code
+Code
+download
+content_copy
+expand_less
+Fruta-pão
+Clementinas
+Pitaia (Dragon Fruit)
+Goiaba, madura
+Tangerinas
+Papaia
+
+Carne e Peixe
+
+code
+Code
+download
+content_copy
+expand_less
+Vaca
+Frango
+Borrego
+Porco
+Peixe fresco - ex: bacalhau, arinca, arenque, cavala
+Peixe em conserva - ex: atum, sardinhas
+Marisco - ex: gambas, camarão, caranguejo, lagosta
+
+Outros Alimentos
+
+code
+Code
+download
+content_copy
+expand_less
+Manteiga
+Cebolinho
+Óleos de cozinha - ex: azeite, óleo de coco, óleo de sésamo, óleo de girassol
+Ovos
+Ghee (Manteiga clarificada)
+Arroz - branco, basmati e integral
+Óleo vegetal
+Vinagre, malte
+
+--- INÍCIO DO FICHEIRO low_fodmap.txt ---
+
+Vegetais e Leguminosas
+
+code
+Code
+download
+content_copy
+expand_less
+Alfafa
+Rebentos de bambu
+Rebentos de soja
+Beterraba, em lata e em conserva
+Feijão preto - 1/4 de chávena / 45g
+Bok choy / pak choi
+Brócolos, apenas as cabeças - 3/4 de chávena
+Brócolos, apenas os talos - 1/3 de chávena
+Broccolini, apenas as cabeças - 1/4 de chávena
+Broccolini, apenas os talos - 3/4 de chávena
+Couves-de-bruxelas - 2 couves
+Abóbora manteiga (Butternut) - 1/4 de chávena
+Couve, comum e roxa até 3/4 de chávena
+Callaloo (tipo de amaranto)
+Cenouras
+Aipo-rábano (Celeriac)
+Aipo - menos de 5cm de talo
+Folhas de chicória
+Grão-de-bico - 1/4 de chávena
+Malagueta - se tolerável
+Couve chinesa / wombok
+Cebolinho
+Chuchu (Cho cho) - 1/2 chávena em cubos
+Choy sum
+Couve-galega
+Milho / milho doce - se tolerável e apenas em pequenas quantidades - 1/2 espiga
+Curgete - 65g
+Pepino
+Beringela (1 chávena)
+Funcho, bolbo - até 75g
+Funcho, folhas - até 15g
+Couve fermentada, ex: chucrute - até 1/2 chávena
+Feijão-verde
+Pimento verde - 1/2 chávena
+Gengibre
+Kale (Couve-galega frisada)
+Karela (Melão-de-são-caetano)
+Kumara, batata-doce, roxa e branca - até 75g
+Folhas de alho-francês
+Lentilhas - em pequenas quantidades
+Alface:
+    Alface manteiga
+    Alface iceberg
+    Alface radicchio
+    Alface roxa
+    Rúcula
+    Alface Romana/Cos
+Abobrinha (Marrow)
+Quiabo
+Azeitonas
+Pastinaca
+Ervilhas de quebrar (Snow peas) - 5 vagens
+Pepininhos em conserva
+Cebolas em conserva, grandes
+Batata
+Abóbora - até 63g
+Abóbora, em lata - 1/4 de chávena, 2.2 oz
+Rabanete
+Pimentos vermelhos
+Cebolo / cebolinha (parte verde)
+Algas / nori
+Acelga (Silverbeet / chard)
+Abóbora esparguete (Spaghetti squash)
+Espinafres, baby
+Espinafres, ingleses
+Abóbora (Squash) - até 63g
+Tomate seco - 4 pedaços
+Nabo-da-suécia (Swede)
+Acelga suíça
+Batata-doce - 1/2 chávena
+Tomate - em lata, cereja, comum, roma
+Tomate, em lata - 3/5 de chávena
+Tomate, comum - até 65g
+Tomate, cereja - 5 tomates
+Sumo de tomate - 1/2 copo
+Pasta / concentrado de tomate - 2 colheres de sopa
+Tomatillo, fresco - 1 chávena
+Tomatillos, em lata - 75g
+Nabo - 1/2 nabo
+Castanhas de água
+Espinafre de água (Water Spinach)
+Inhame
+Curgete - 65g
+
+Fruta
+
+code
+Code
+download
+content_copy
+expand_less
+Sessea (Ackee)
+Compota de maçã (Applesauce) - 3/4 colher de chá
+Bananas, verdes - 1 média
+Mirtilos (Bilberries)
+Mirtilos (Blueberries) - 1 chávena
+Fruta-pão
+Carambola
+Meloa (Cantaloupe) - 3/4 de chávena
+Arando (Cranberry) - 1 colher de sopa
+Clementina
+Coco, creme - 1/4 de chávena
+Coco, polpa - 2/3 de chávena
+Coco, açúcar - 1 colher de chá
+Sumo de arando - 3/4 de copo
+Tâmaras - até 5
+Pitaia (Dragon fruit)
+Lingonberries
+Uvas, tintas e brancas - 10g
+Goiaba, madura
+Melão (Honeydew e Galia) - 1/2 chávena
+Jaca (Jackfruit) - 1/3 de chávena
+Kiwi - 2 pequenos
+Limão, incluindo sumo de limão
+Lima, incluindo sumo de lima
+Tangerina
+Laranja
+Maracujá
+Papaia (Paw paw)
+Papaia (Papaya)
+Ananás
+Banana-pão (Plantain), descascada
+Figo da Índia / nopales
+Framboesa - 1/3 de chávena
+Ruibarbo
+Morango - 65g / cerca de 5 morangos médios
+Tamarindo
+Tangelo
+
+Carnes, Aves e Substitutos de Carne
+
+code
+Code
+download
+content_copy
+expand_less
+Vaca
+Frango
+Chouriço
+Foie gras
+Canguru
+Borrego
+Porco
+Presunto (Prosciutto)
+Quorn, picado
+Peru
+Fiambres / carnes frias como fiambre de porco e peito de peru
+Carne processada - verificar ingredientes
+
+Peixe e Marisco
+
+code
+Code
+download
+content_copy
+expand_less
+Atum em lata
+Peixe fresco ex:
+    Bacalhau
+    Arinca
+    Solha
+    Salmão
+    Truta
+    Atum
+Marisco (garantindo que nada mais é adicionado) ex:
+    Caranguejo
+    Lagosta
+    Mexilhões
+    Ostras
+    Gambas
+    Camarão
+
+Cereais, Grãos, Pães, Bolachas, Massa, Frutos Secos e Bolos
+
+code
+Code
+download
+content_copy
+expand_less
+Pães sem trigo
+Pães sem glúten
+Pão:
+    Broa de milho / Pão de milho
+    Pão de arroz
+    Pão de espelta de massa mãe (sourdough)
+    Pão de farinha de batata
+Massa sem trigo ou sem glúten
+Pão, trigo - 1 fatia
+Amêndoas - 10 amêndoas
+Bolacha, tipo cream cracker - 4 bolachas
+Bolacha, de aveia - 4 bolachas
+Bolacha, salgada - 2 bolachas
+Bolacha, shortbread (amanteigada) - 1 bolacha
+Bolacha, doce, simples - 2 bolachas
+Bolacha, de cereais de aveia integral - 2 bolachas
+Castanha do Brasil - até 10 castanhas
+Bulgur - 1/4 de chávena cozinhado, porção de 44g
+Trigo-sarraceno
+Farinha de trigo-sarraceno
+Noodles de trigo-sarraceno
+Arroz integral
+Farinha de mandioca
+Castanhas
+Batatas fritas de pacote, simples / batata frita, simples
+Farinha de milho (Maizena) / milho
+Pão estaladiço (Crispbread)
+Bolachas de milho
+Flocos de milho (Cornflakes) - 1/2 chávena
+Flocos de milho, sem glúten
+Milho, em creme e em lata (até 1/3 de chávena)
+Tortilhas de milho, 3 tortilhas
+Bolachas de água e sal (Crackers), simples
+Sementes de linhaça - até 1 colher de sopa
+Óleo de linhaça
+Avelãs - 24 avelãs
+Kellogg's (EUA):
+    Corn Flakes
+    Crispix
+    Frosted Flakes
+    Frosted Krispies
+    Rice Krispies
+Nozes de macadâmia - até 15 nozes
+Milho-painço (Millet)
+Frutos secos mistos
+Aveia (Oatmeal), 1/2 chávena
+Aveia
+Bolachas de aveia
+Massa, filo - 1 folha
+Massa, folhada - 1/4 de folha
+Amendoins
+Nozes-pecã - 15 metades
+Pinhões
+Polenta
+Pipocas
+Papas e cereais à base de aveia
+Fécula de batata
+Pretzels
+Quinoa
+Massa, trigo - até 1/2 chávena cozida
+Arroz:
+    Arroz Basmati
+    Arroz Bomba
+    Arroz Integral
+    Noodles de arroz
+    Arroz branco
+    Arroz selvagem - até 1 chávena
+Farelo de arroz
+Bolachas de arroz
+Bolachas de arroz (crackers)
+Flocos de arroz
+Farinha de arroz
+Sementes:
+    Sementes de chia
+    Sementes de endro
+    Sementes de Egusi
+    Sementes de cânhamo
+    Sementes de papoila
+    Sementes de abóbora
+    Sementes de sésamo
+    Sementes de girassol
+Amido, milho, batata e tapioca (polvilho)
+Sorgo
+Tortilhas (nachos) / batatas fritas de milho
+Nozes - até 15 metades
+
+Condimentos, Molhos, Doces, Adoçantes e Cremes de barrar
+
+code
+Code
+download
+content_copy
+expand_less
+Aspartame
+Acessulfame K
+Manteiga de amêndoa
+Molho Barbecue - verifique o rótulo cuidadosamente
+Alcaparras em vinagre
+Alcaparras, salgadas
+Chocolate:
+    Chocolate preto - 5 quadrados
+    Chocolate de leite - 4 quadrados
+    Chocolate branco - 3 quadrados
+Chutney, 1 colher de sopa
+Mostarda Dijon
+Eritritol (E968 / 968)
+Molho de peixe
+Golden syrup (melaço claro) - 1 colher de chá
+Glucose
+Glicerol (E422 / 422)
+Doce / geleia, morango
+Doce / geleia, framboesa - 2 colheres de sopa
+Ketchup (EUA) - 1 saqueta
+Xarope de ácer
+Marmelada (de citrinos)
+Marmite
+Maionese - garantindo que não há alho ou cebola nos ingredientes
+Pasta de Miso
+Mostarda
+Molho de ostra
+Molho Pesto - menos de 1 colher de sopa
+Manteiga de amendoim
+Xarope de malte de arroz
+Sacarina
+Pasta de camarão
+Molho de soja
+Molho picante Sriracha - 1 colher de chá
+Stevia
+Molho agridoce
+Sucralose
+Açúcar - também chamado de sacarose
+Pasta de Tahini
+Molho Tamari
+Pasta de tamarindo
+Molho de tomate (fora dos EUA) - 2 saquetas, 13g
+Vegemite
+Vinagres:
+    Vinagre de sidra, 2 colheres de sopa
+    Vinagre balsâmico, 2 colheres de sopa
+    Vinagre de vinho de arroz
+Molho Worcestershire (inglês) - tem cebola e alho, mas uma quantidade muito baixa, tornando-o baixo em FODMAP
+
+Bebidas e Proteínas em Pó
+
+code
+Code
+download
+content_copy
+expand_less
+Álcool - é um irritante para o intestino, recomenda-se ingestão limitada:
+    Cerveja - limitada a uma bebida
+    Bebidas espirituosas claras, como Vodka
+    Gin
+    Whiskey
+    Vinho - limitado a uma bebida
+Café:
+    Café expresso, normal ou descafeinado, preto
+    Café expresso, normal ou descafeinado, com até 250ml de leite sem lactose
+    Café solúvel, normal ou descafeinado, preto
+    Café solúvel, normal ou descafeinado, com até 250ml de leite sem lactose
+Coco, leite - 125ml
+Coco, água - 100ml
+Chocolate em pó para beber
+Sumo de fruta, 125ml e apenas frutas seguras
+Kvass
+Limonada - em pequenas quantidades
+Proteínas em pó:
+    Proteína de ovo
+    Proteína de arroz
+    Proteína Sacha Inchi
+    Isolado de proteína Whey
+Leite de soja feito com proteína de soja
+Refrigerantes sem açúcar - como diet coke, em pequenas quantidades, pois o aspartame e o acessulfame k podem ser irritantes
+Refrigerantes com 'açúcar' que não contêm HFCS, como limonada, cola. Limite a ingestão devido a estas bebidas serem geralmente pouco saudáveis e poderem causar irritação intestinal
+Chá:
+    Chá preto, fraco ex: PG Tips
+    Chá Chai, fraco
+    Chá de frutas e ervas, fraco - certifique-se de que não tem adição de maçã
+    Chá verde
+    Chá de hortelã-pimenta
+    Chá branco
+Água
+
+Laticínios e Ovos
+
+code
+Code
+download
+content_copy
+expand_less
+Manteiga
+Queijo:
+    Queijo Americano - 16g
+    Brie
+    Camembert
+    Cheddar
+    Cottage / Fresco granulado - 2 colheres de sopa
+    Queijo Creme - 2 colheres de sopa
+    Feta
+    Cabra / chèvre
+    Halloumi - 40g
+    Monterey Jack
+    Mozzarella
+    Paneer - 2 colheres de sopa
+    Parmesão
+    Ricota - 2 colheres de sopa
+    Suíço
+Pudim de chocolate sem laticínios
+Ovos
+Margarina
+Leite:
+    Leite de amêndoa
+    Leite de cânhamo - 125ml
+    Leite sem lactose
+    Leite de macadâmia
+    Leite de aveia - 30 ml, suficiente para cereais
+    Leite de arroz - até 200ml por refeição
+Sorvete (Sorbet)
+Proteína de soja (evitar grãos de soja)
+Queijo suíço
+Tempeh
+Tofu - variedades escorridas e firmes
+Chantilly (Natas batidas)
+Iogurte:
+    Iogurte de coco
+    Iogurte grego - 23g
+    Iogurte sem lactose
+    Iogurte de cabra
+    Iogurte de soja - 38g
+
+Ingredientes de Culinária, Ervas e Especiarias
+
+code
+Code
+download
+content_copy
+expand_less
+Ervas: Manjericão, Folhas de louro, Coentros (folha), Coentros (grão), Folhas de caril, Fenogrego, Centella asiatica (Gotukala), Erva-príncipe, Hortelã, Orégãos, Pandan, Salsa, Rampa, Alecrim, Salva, Estragão, Tomilho
+Especiarias: Pimenta da Jamaica (All spice), Pimenta preta, Cardamomo, Pimenta em pó (verificar ingredientes, por vezes tem alho adicionado), Pimenta Chipotle em pó, Canela, Cravinho, Cominhos, Caril em pó, Sementes de funcho, Cinco especiarias, Goraka, Sementes de mostarda, Noz-moscada, Paprica, Açafrão, Anis-estrelado, Curcuma
+Óleos: Óleo de abacate, Óleo de canola, Óleo de coco, Azeite, Óleo de amendoim, Óleo de farelo de arroz, Óleo de sésamo, Óleo de soja, Óleo de girassol, Óleo vegetal
+Azeite com infusão de alho - ver página de receitas
+Azeite com infusão de cebola - ver página de receitas
+Açaí em pó
+Assa-fétida em pó - ótimo substituto de cebola
+Fermento em pó (Baking powder)
+Bicarbonato de sódio (Baking soda)
+Cacau cru em pó (Cacao powder)
+Cacau em pó (Cocoa powder)
+Natas, 2 colheres de sopa
+Gelatina
+Ghee, manteiga clarificada - 1 colher de sopa
+Açúcar em pó (de confeiteiro)
+Banha
+Maca em pó - 1 colher de chá
+Manga em pó - 1 colher de chá
+Matcha em pó - 1 colher de chá
+Levedura nutricional
+Sal
+Óleo de soja
+Tahini, com casca - 30g
